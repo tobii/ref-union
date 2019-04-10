@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "debug": "2",
-    "ref": "1"
+    "ref": "TooTallNate/ref#pull/110/head"
   },
   "devDependencies": {
     "mocha": "*",
