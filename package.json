@@ -22,12 +22,12 @@
   },
   "dependencies": {
     "debug": "2",
-    "ref": "TooTallNate/ref#pull/110/head"
+    "ref": "tobiipro/ref"
   },
   "devDependencies": {
     "mocha": "*",
     "nan": "2",
-    "ref-struct": "1",
+    "ref-struct": "tobiipro/ref-struct",
     "bindings": "1"
   }
 }
